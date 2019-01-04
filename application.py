@@ -39,7 +39,7 @@ welcome = """
   <title>Welcome</title>
   <style>
   body {
-    color: #ffffff;
+    color: orange;
     background-color: #E0E0E0;
     font-family: Arial, sans-serif;
     font-size:14px;
